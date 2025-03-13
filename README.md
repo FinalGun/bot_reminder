@@ -10,5 +10,8 @@ Python, telebot, threading, sqlite3, logging
 
 ### Как развернуть:
 Для работы нужны переменные окружения:
-TELEGRAM_TOKEN - токен вашего бота
-TELEGRAM_CHAT_ID - id чата для отправки сообщений
+
+- TELEGRAM_TOKEN - токен вашего бота
+- TELEGRAM_CHAT_ID - id чата для отправки сообщений
+
+
